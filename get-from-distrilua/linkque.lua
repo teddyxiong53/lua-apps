@@ -1,3 +1,7 @@
+--[[
+    这个写法，感觉跟C语言的队列写法没有区别。
+
+]]
 local LinkQue = {}
 
 function LinkQue:new(o)
